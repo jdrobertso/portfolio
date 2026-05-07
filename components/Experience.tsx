@@ -50,7 +50,7 @@ const JOBS = [
       "Developed radiation treatment planning software used by oncologists globally",
       "Built data pipelines processing medical imaging data (DICOM) at clinical scale",
       "Worked within strict regulatory and compliance frameworks",
-      "Contributed to platform improvements that reduced treatment planning time and efficacy",
+      "Contributed to platform improvements that reduced treatment planning time and increased efficacy",
     ],
     tags: ["Python", ".NET", "C#", "DICOM", "Medical Imaging", "SQL Server"],
   },
