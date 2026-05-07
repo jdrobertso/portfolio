@@ -18,7 +18,7 @@ const JOBS = [
       "Implemented integrations connecting POS systems, payment rails, and fleet management",
       "Led architecture decisions for cloud-native, multi-tenant deployments",
     ],
-    tags: ["Azure", "React", "Node.js", "PostgreSQL", "Microservices"],
+    tags: ["Google Cloud", "React", "Node.js", "PostgreSQL", "Microservices", "Django"],
   },
   {
     id: "1904",
@@ -49,8 +49,8 @@ const JOBS = [
     highlights: [
       "Developed radiation treatment planning software used by oncologists globally",
       "Built data pipelines processing medical imaging data (DICOM) at clinical scale",
-      "Worked within strict regulatory (FDA, IEC 62304) and compliance frameworks",
-      "Contributed to platform improvements that reduced treatment planning time by 30%",
+      "Worked within strict regulatory and compliance frameworks",
+      "Contributed to platform improvements that reduced treatment planning time and efficacy",
     ],
     tags: ["Python", ".NET", "C#", "DICOM", "Medical Imaging", "SQL Server"],
   },
